@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".ariane": true,
+    ".vscode": true,
+    "**/.gitkeep": true,
+    ".industry_kpis": true
+  },
+  "git.mergeEditor": false
+}
